@@ -1,0 +1,6 @@
+[submodule "fam-photos-client"]
+	path = fam-photos-client
+	url = https://github.com/paulslevin/fam-photos-client
+[submodule "fam-photos-server"]
+	path = fam-photos-server
+	url = https://github.com/paulslevin/fam-photos-server
